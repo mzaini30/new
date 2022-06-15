@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "release": "bumpp --tag --release --push"
+    "release": "bumpp --tag --commit --push"
   },
   "repository": {
     "type": "git",

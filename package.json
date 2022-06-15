@@ -1,6 +1,6 @@
 {
   "name": "new",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/mzaini30/new.git"
   },
-  "keywords": ["github", "template"],
+  "keywords": [
+    "github",
+    "template"
+  ],
   "author": "Zen",
   "license": "MIT",
   "bugs": {
